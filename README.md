@@ -1,0 +1,48 @@
+# Coldplay – Hymn for the Weekend
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:12.09] Oh, angel sent from up above
+[00:17.55] You know you make my world light up
+[00:22.76] When I was down, when I was hurt
+[00:28.41] You came to lift me up
+[00:33.68] Life is a drink and love's a drug
+[00:38.88] Oh, now I think I must be miles up
+[00:44.49] When I was a river dried up
+[00:49.91] You came to rain a flood
+[01:01.91] 
+[00:55.70] Ah-oh-ah-oh-ah
+[00:59.42] Got me feeling drunk and high
+[01:09.79] So high, so high
+[01:11.16] Ah-oh-ah-oh-ah
+[01:13.02] Now I'm feeling drunk and high
+[01:14.43] So high, so high
+[01:22.85] Feeling drunk and high
+[01:30.00] Feeling drunk and high
+[01:30.81] So high
+[01:34.31] 
+[01:31.44] Oh, angel sent from up above
+[01:32.50] I feel it coursing through my blood
+[01:32.74] Life is a drink, your love's about
+[01:33.32] To make the stars come out
+[01:46.32] 
+[01:33.57] Ah-oh-ah-oh-ah
+[01:33.71] Got me feeling drunk and high
+[01:34.83] So high, so high
+[01:35.12] Ah-oh-ah-oh-ah
+[01:35.43] Now I'm feeling drunk and high
+[01:35.71] So high, so high
+[01:36.14] Feeling drunk and high
+[01:36.68] Feeling drunk and high
+[01:37.50] So high
+[01:41.00] 
+[01:38.18] That we shoot across the sky
+[01:38.68] That we shoot across the
+[01:39.25] That we shoot across the sky
+[01:39.54] That we shoot across the
+[01:39.79] That we shoot across the sky
+[01:40.04] That we shoot across the
+[01:40.21] That we shoot across the sky
+[01:40.49] That we shoot across the
+```
